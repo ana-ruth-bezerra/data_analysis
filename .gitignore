@@ -17,9 +17,6 @@ dist/
 .ipynb_checkpoints
 *.ipynb_checkpoints/
 
-# Data files
-data/*.xlsx
-
 # PyCharm
 .idea/
 *.iml
